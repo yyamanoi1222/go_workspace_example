@@ -2,7 +2,7 @@ package main
 
 import (
   "fmt"
-  "github.com/yyamanoi1222/go_workspace_example/user"
+  "github.com/yyamanoi1222/go_workspace_example/modules/user"
 )
 
 func main() {
