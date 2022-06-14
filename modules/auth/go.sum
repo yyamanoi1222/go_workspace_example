@@ -2,3 +2,5 @@ github.com/golang-jwt/jwt/v4 v4.4.1 h1:pC5DB52sCeK48Wlb9oPcdhnjkz1TKt1D/P7WKJ0kU
 github.com/golang-jwt/jwt/v4 v4.4.1/go.mod h1:m21LjoU+eqJr34lmDMbreY2eSTRJ1cv77w39/MY0Ch0=
 github.com/yyamanoi1222/go_workspace_example/modules/user v0.0.0-20220614144805-79e51bb9d24d h1:Fvq8miTf5kWDFcr/nhOPNzudOSUPS/HEi9eYv+I4Mlc=
 github.com/yyamanoi1222/go_workspace_example/modules/user v0.0.0-20220614144805-79e51bb9d24d/go.mod h1:6gCAdZBzRb66yq0zPadw0xzkitQN6a+dOyhnjVeaBLk=
+github.com/yyamanoi1222/go_workspace_example/modules/user v0.0.0-20220614152049-a45d1a957402 h1:5mbCI1u9hFr+4cc1MjbmVcFSUx/NjyJsPSJAW0p04F0=
+github.com/yyamanoi1222/go_workspace_example/modules/user v0.0.0-20220614152049-a45d1a957402/go.mod h1:6gCAdZBzRb66yq0zPadw0xzkitQN6a+dOyhnjVeaBLk=
