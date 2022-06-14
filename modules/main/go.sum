@@ -1,0 +1,4 @@
+github.com/yyamanoi1222/go_workspace_example/modules/auth v0.0.0-20220614144805-79e51bb9d24d h1:w9DJo7Gh3Fa5zaox2q/tCMlgAcHdKYX/ebQqlM5/ugI=
+github.com/yyamanoi1222/go_workspace_example/modules/auth v0.0.0-20220614144805-79e51bb9d24d/go.mod h1:FWRF++u0QpBYMuR0ndJCr53iD5/wQuOViNs3dACsb4A=
+github.com/yyamanoi1222/go_workspace_example/modules/user v0.0.0-20220614144805-79e51bb9d24d h1:Fvq8miTf5kWDFcr/nhOPNzudOSUPS/HEi9eYv+I4Mlc=
+github.com/yyamanoi1222/go_workspace_example/modules/user v0.0.0-20220614144805-79e51bb9d24d/go.mod h1:6gCAdZBzRb66yq0zPadw0xzkitQN6a+dOyhnjVeaBLk=
